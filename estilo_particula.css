@@ -1,0 +1,34 @@
+.particula {
+    animation: anim1 6s linear infinite;
+    margin-top: 250px;
+    position: absolute;
+    margin-left: 150px;
+}
+
+.particula::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 6px;
+    height: 6px;
+    background: #fff;
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    animation: anim2 3s cubic-bezier(0.3, 0.27, 0.07, 1.64) infinite;
+    box-shadow: 0 0 20px 2px white, 0 0 10px white, 0 0 5px white;
+    -moz-box-shadow: 0 0 20px 2px white, 0 0 10px white, 0 0 5px white;
+    -webkit-box-shadow: 0 0 20px 2px white, 0 0 10px white, 0 0 5px white;
+}
+
+@keyframes anim1 {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes anim2 {
+    50% {
+        transform: translate(-150px);
+    }
+}
