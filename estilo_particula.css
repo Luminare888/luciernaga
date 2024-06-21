@@ -2,8 +2,8 @@
     animation: anim1 6s linear infinite;
     margin-top: px;
     position: absolute;
-    margin-left: px;
-    width: 460px;
+    margin-left: 10px;
+    width: 600px;
     height: 235px;
 }
 
@@ -14,7 +14,7 @@
     left: 0;
     width: 6px;
     height: 6px;
-    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/968afb90-ac92-44de-a6d9-bbd220b7fa64/dbjfrb2-561c06cd-5fff-440a-bd64-83df12d26f1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2OGFmYjkwLWFjOTItNDRkZS1hNmQ5LWJiZDIyMGI3ZmE2NFwvZGJqZnJiMi01NjFjMDZjZC01ZmZmLTQ0MGEtYmQ2NC04M2RmMTJkMjZmMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._VX_Jo_vZthhTdgckE8k_9S-dfG5fZ-y5K3sU4k9q7g);
+    background: url(https://pnghq.com/wp-content/uploads/firefly-logo-free-png-images.png);
     background-size: cover;
     border-radius: 100%;
     -moz-border-radius: 100%;
