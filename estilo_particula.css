@@ -1,8 +1,8 @@
 .particula {
     animation: anim1 6s linear infinite;
-    margin-top: 250px;
+    margin-top: px;
     position: absolute;
-    margin-left: 150px;
+    margin-left: px;
     width: 260px;
     height: 235px;
 }
