@@ -3,6 +3,8 @@
     margin-top: 250px;
     position: absolute;
     margin-left: 150px;
+    width: 260px;
+    height: 235px;
 }
 
 .particula::after {
